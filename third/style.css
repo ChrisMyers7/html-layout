@@ -1,0 +1,34 @@
+.top-header {
+    width: 100%;
+    height: 15vh;
+    background: gray;
+    padding: 4vh 0vh 4vh 6vw;
+}
+.inner-section {
+    width: 80px;
+    height: 7vh;
+    background: blue;
+}
+.text-section {
+    width: 100%;
+    height: 30vh;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5rem;
+}
+.normal {
+    height: 12vh;
+    width: 100%;
+}
+#blue {
+    background: blue;
+}
+#aqua {
+    background: aqua;
+}
+#green {
+    background: green;
+}
+#yellow {
+    background: yellow;
+}
